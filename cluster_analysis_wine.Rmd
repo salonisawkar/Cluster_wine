@@ -169,7 +169,7 @@ plot(table(wine$Cultivar, wineK6N25_01$cluster), main="Confusion matrix for wine
      xlab="Cultivar", ylab="Cluster")
 ```
 
-
+Check!
 
 This has just been a quick introduction to k-means cluster analysis. As you'll see in RforE, there
 are other clustering techniques (as well as other variants of k-means). It's a widely used exploratory
